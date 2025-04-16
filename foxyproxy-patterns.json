@@ -11,1653 +11,4456 @@
       "whitePatterns": [
         {
           "active": true,
-          "pattern": "*.freepkg.dev*",
+          "pattern": "*.000webhost.com*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.android.com*",
+          "pattern": "*.3docean.ne*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.teamtreehouse.com*",
+          "pattern": "*.8xr.io*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.upwork.com*",
+          "pattern": "*.aapanel.com*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.bluemix.net*",
+          "pattern": "*.accounts.google.com*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.swift.org*",
+          "pattern": "*.aclanthology.org*",
           "type": 1,
           "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.fbsbx.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.googletagservices.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.overleaf.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.jenkins.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.ruby-doc.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.arcgis.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.adservice.google.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.jhipster.tech*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.symfony.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.classroom.google.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.paypal.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.web.dev*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.c9.io*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.codecov.io*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.coursehero.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.expressjs.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.twilio.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.codex.cs.yale.edu*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.edx.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.php.net*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.githubusercontent.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.slack.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.play.google.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.developer.google.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.photodune.net*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.videohive.net*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.laravel.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.salesforce.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.expo.io*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.clients.google.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.telerik.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.audiojungle.net*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.3docean.net*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.sparkjava.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.zeit.co*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.graphicriver.net*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.mit.edu*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.tinyjpg.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.goanimate.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.hackerrank.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.gitlab.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.gitpod.io*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.atlassian.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.spiceworks.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.bugsnag.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.sentry.io*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.clients6.google.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.incredibuild.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.epicgames.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.enterprisedb.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.packagist.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.jenkov.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.bintray.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.edgesuite.net*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.marketingplatform.google.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.gopkg.in*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.labix.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.withgoogle.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.coinbase.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.schema.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.invisionapp.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.bitbucket.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.softonic.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.developers.google.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.nativescript.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.kaggle.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.ads.google.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.domains.google.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.tensorflow.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.apple.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.aws.amazon.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.dl.google.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.rapid7.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.pscdn.co*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.appengine.google.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.baeldung.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.envato-static.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.newrelic.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.google.ai*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.dartlang.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.gitlab.io*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.flutter.io*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.ai.google*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.doubleclickbygoogle.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.doubleclick.net*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.gstatic.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.jwplayer.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.caddyserver.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.caddy.community*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.googleadservices.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.googletagmanager.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.geforce.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.socket.io*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.google-analytics.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.googleusercontent.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.en25.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.tinypng.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.justpaste.it*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.demandbase.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.appspot.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.element14.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.unity3d.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.sourceforge.net*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.unity.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.myfonts.net*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.jaspersoft.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.design.google.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.stripe.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.python.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.pypi.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.gravatar.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.cloud.google.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.analytics.google.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.optimize.google.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.fiber.google.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.dl-ssl.google.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.dns.google.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.firebase.google.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.firebase.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.googleapis.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.jetbrains.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.seleniumhq.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.invis.io*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.java.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.vuforia.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.cocalc.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.gradle.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.fabric.io*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.apis.google.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.godoc.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.paypalobjects.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.count.ly*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.khanacademy.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.oracle.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.crashlytics.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.origin.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.explainshell.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.packtpub.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.traviscistatus.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.golang.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.storage.googleapis.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.flutterlearn.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.spring.io*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.themeforest.net*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.flurry.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.softlayer.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.mailgun.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.bootstrapcdn.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.download.virtualbox.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.sun.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.books.google.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.mysql.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.unrealengine.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.mongodb.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.mongodb.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.envato.com*",
-          "type": 1,
-          "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
           "pattern": "*.adobe.com*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.apps.admob.com*",
+          "pattern": "*.adobelogin.com*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.grafana.com*",
+          "pattern": "*.ads.google.com*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.cp.maxcdn.com*",
+          "pattern": "*.adsense.google.com*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.codecanyon.net*",
+          "pattern": "*.adservice.google.com*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.compiles.overleaf.com*",
+          "pattern": "*.ai.google*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.amd.com*",
+          "pattern": "*.akamaized.ne*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.payments.google.com*",
+          "pattern": "*.alexa.com*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.ibm.com*",
+          "pattern": "*.algolia.com*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.jenkins-ci.org*",
+          "pattern": "*.algolia.ne*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.mbed.com*",
+          "pattern": "*.algolianet.com*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.ti.com*",
+          "pattern": "*.alpinelinux.org*",
           "type": 1,
           "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.netbeans.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.vmware.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.toggl.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.docker.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.docker.io*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.gcr.io*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.datacamp.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.googlesource.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.polymer-project.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.udemy.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.material.io*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.teamviewer.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.intel.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.developer.chrome.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.github.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.jfrog.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.sonatype.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.maven.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.jitpack.io*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.maven.google.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.cloudfront.net*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.nvidia.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.rstudio.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.sendgrid.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.kubernetes.io*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.issuetracker.google.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.virtualbox.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.atlassian.net*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.archive.ubuntu.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.b4x.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.elastic.co*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.launchpad.net*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.medium.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.code.google.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.realm.io*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.maas.io*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.docs.datastax.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.splunk.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.gitlab-static.net*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.releases.hashicorp.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.livefyre.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.slack-edge.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.cloudera.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.apache.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.vagrantup.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.metasploit.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.coursera.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.nodejs.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.npmjs.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.dell.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.gallery.io*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.mathworks.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.lenovo.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.jitsi.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.anydesk.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.ant.design*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.centos.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.quay.io*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.bitvise.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.ni.com*",
-          "type": 1,
-          "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
           "pattern": "*.altera.com*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.chocolatey.org*",
+          "pattern": "*.altn.com*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.microchip.com*",
+          "pattern": "*.amazon.com*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.codesandbox.io*",
+          "pattern": "*.amazon.com*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.spotify.com*",
+          "pattern": "*.amazonaws.com*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.scdn.co*",
+          "pattern": "*.amd.com*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.godbolt.org*",
+          "pattern": "*.amp.dev*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.zoom.us*",
+          "pattern": "*.analytics.google.com*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.freecodecamp.org*",
+          "pattern": "*.anchor.fm*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.libraries.io*",
+          "pattern": "*.android.com*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.githubassets.com*",
+          "pattern": "*.androidstudio.googleblog.com*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.i.stack.imgur.com*",
+          "pattern": "*.ansible.com*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.ant.design*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.anydesk.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.apache.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.api.daily.dev*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.apis.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.app.netdata.cloud*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.app.uniswap.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.appengine.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.apple.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.apps.admob.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.appspot.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.arcgis.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.atlassian.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.atlassian.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.audiojungle.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.auth0.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.aws.amazon.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.awsstatic.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.axocdn.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.azul.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.azure.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.b4x.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.baeldung.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.balena.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.battlecode.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.bazel.build*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.bazel.build*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.bestbuy.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.bigbluebutton.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.bintray.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.bit.dev*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.bit.ly*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.bitbucket.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
         {
           "active": true,
           "pattern": "*.bitsrc.io*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.hyper.is*",
+          "pattern": "*.bitvise.com*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.serialport.io*",
+          "pattern": "*.bitvision.app*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.curd.io*",
+          "pattern": "*.bluemix.ne*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.gitpod.io*",
+          "pattern": "*.books.google.com*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.wikia.com*",
+          "pattern": "*.bootstrapcdn.com*",
           "type": 1,
           "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.fluttercrashcourse.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.developer.samsung.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.clients2.google.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.business.google.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.grabcad.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.vmcdn.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.nirsoft.net*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.digikey.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.download.01.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*.packagesource.com*",
-          "type": 1,
-          "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
           "pattern": "*.bootswatch.com*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.getbootstrap.com*",
+          "pattern": "*.branch.io*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.brew.sh*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.buf.build*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.bugsnag.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.business.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.c9.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.caddy.community*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.caddyserver.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.centos.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.chaquo.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.chat.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.chat.openai.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.chatgpt.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.chatgptonline.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.chromium.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.cirros-cloud.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.cisco.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.clamav.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.classroom.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.clients.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.clients2.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.clients6.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.cljdoc.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.cloud.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.cloudbees.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.cloudera.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.cloudflare.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.cloudfront.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.cloudfunctions.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.cnet.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.cocalc.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.code.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.code.videolan.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.codecanyon.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.codecov.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.codegrepper.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.codepen.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.codesandbox.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.codex.cs.yale.edu*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.coinbase.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.compiles.overleaf.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.comsol.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.conan.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.consul.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.convertio.co*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.convertio.me*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.coreldraw.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.count.ly*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.coursehero.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.coursera-apps.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.coursera.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.coursera.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.cp.maxcdn.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.cppstories.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.crashlytics.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.crates.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.cs50.ai*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.cs50.dev*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.cs50.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.cs50.me*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.csb.app*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.curd.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.dart.dev*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.dartlang.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.dartpad.dev*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.dashboardpack.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.datacamp.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.datastudio.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.debian.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.deepmind.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.dell.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.dellcdn.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.demandbase.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.deno.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.deno.land*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.deployer.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.design.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.dev.to*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.mattermost.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.ppa.launchpadcontent.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.developer.chrome.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.developer.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.developer.samsung.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.developers.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.digikey.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.digitalocean.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.djangoproject.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.dl-ssl.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.dl.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.dlang.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.dns.google*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.dns.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.docker.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.docker.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.docs.datastax.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.domains.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.dot.tk*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.doubleclick.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.doubleclickbygoogle.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.download.01.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.download.virtualbox.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.downloads.arduino.cc*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.earthengine.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.earthengine.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.edgesuite.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.edx.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.elastic.co*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.element14.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.eloqua.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.en25.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.enterprisedb.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.envato-static.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.envato.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.envato.marke*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.epicgames.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.eslint.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
         {
           "active": true,
           "pattern": "*.events.google.com*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*.unsplash.com*",
+          "pattern": "*.exceedlms.com*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.exp-tas.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.explainshell.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.expo.dev*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.expo.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.expressjs.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.fabric.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.fastapi.tiangolo.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.fbsbx.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.fedoramagazine.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.fedoraproject.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.fiber.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.figma.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.firebase.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.firebase.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.flaticon.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.flurry.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.flutter-io.cn*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.flutter.dev*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.flutter.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.fluttercrashcourse.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.flutterlearn.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.fodev.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.fontawesome.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.fortinet.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.forums.cpanel.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.freecodecamp.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.freedesktop.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.freenom.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.freepik.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.fsdn.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.fuchsia.dev*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.fusioncharts.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.gallery.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.gamepass.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.gcr.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.geforce.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.gemini.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.getbootstrap.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.getcaddy.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.getliner.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.github.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.github.dev*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.github.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.githubapp.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.githubassets.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.githubusercontent.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.githubusercontent.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.gitkraken.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.gitlab-static.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.gitlab.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.gitlab.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.gitpod.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.ghcr.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.glitch.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.glitch.me*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.gluonhq.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.gnome.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.go.dev*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.goanimate.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.godbolt.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.godoc.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.golang.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.google-analytics.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.google.ai*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.google.qualtrics.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.googleadservices.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.googleapis.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.googlesource.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.googletagmanager.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.googletagservices.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.googleusercontent.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.gopkg.in*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.grabcad.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.gradle-dn.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.gradle.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.grafana.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.grammarly.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.graphicriver.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.graphql.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.gravatar.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.gravityforms.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.grow.google*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.gstatic.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.gurobi.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.gvt1.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.hackerrank.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.hackerrank.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.hackthebox.eu*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.helm.sh*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.heroku.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.hetzner.cloud*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.hetzner.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.hetzner.company*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.hetzner.de*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.hex.pm*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.highcharts.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.hotjar.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.hp.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.hpe.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.huawei.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.huggingface.co*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.hyper.is*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.i.stack.imgur.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.i18next.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.ibm.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.ieee.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.ieee.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.ifconfig.co*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.igdb.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.incredibuild.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.insomnia.res*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.instana.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.intel.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.intelephense.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.intellij.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.invis.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.invisionapp.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.ipinfo.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.ipwhois.app*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.is.gd*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.issuetracker.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.itsfoss.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.jaspersoft.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.java.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.javacardos.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.jenkins-ci.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.jenkins.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.jenkov.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.jetbrains.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.jetbrains.space*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.jfrog.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.jfrog.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.jhipster.tech*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.jitpack.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.jitsi.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.jquery.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.js.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.jsdelivr.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.justpaste.i*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.jwplayer.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
         {
           "active": true,
           "pattern": "*.k8s.io*",
           "type": 1,
           "protocols": 1
-        },
+        }
+        ,
         {
           "active": true,
-          "pattern": "*coursera-apps.org*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*coursera.com*",
-          "type": 1,
-          "protocols": 1
-        },
-        {
-          "active": true,
-          "pattern": "*javacardos.com*",
+          "pattern": "*.kaggle.com*",
           "type": 1,
           "protocols": 1
         }
-      ],
-      "blackPatterns": [
+        ,
         {
-          "title": "local hostnames (usually no dots in the name). Pattern exists because 'Do not use this proxy for localhost and intranet/private IP addresses' is checked.",
           "active": true,
-          "pattern": "^(?:[^:@/]+(?::[^@/]+)?@)?(?:localhost|127\\.\\d+\\.\\d+\\.\\d+)(?::\\d+)?(?:/.*)?$",
-          "type": 2,
-          "protocols": 1
-        },
-        {
-          "title": "local subnets (IANA reserved address space). Pattern exists because 'Do not use this proxy for localhost and intranet/private IP addresses' is checked.",
-          "active": true,
-          "pattern": "^(?:[^:@/]+(?::[^@/]+)?@)?(?:192\\.168\\.\\d+\\.\\d+|10\\.\\d+\\.\\d+\\.\\d+|172\\.(?:1[6789]|2[0-9]|3[01])\\.\\d+\\.\\d+)(?::\\d+)?(?:/.*)?$",
-          "type": 2,
-          "protocols": 1
-        },
-        {
-          "title": "localhost - matches the local host optionally prefixed by a user:password authentication string and optionally suffixed by a port number. The entire local subnet (127.0.0.0/8) matches. Pattern exists because 'Do not use this proxy for localhost and intranet/private IP addresses' is checked.",
-          "active": true,
-          "pattern": "^(?:[^:@/]+(?::[^@/]+)?@)?[\\w-]+(?::\\d+)?(?:/.*)?$",
-          "type": 2,
+          "pattern": "*.kaggle.io*",
+          "type": 1,
           "protocols": 1
         }
-      ],
-      "id": "z9wr0e1535368490699"
+        ,
+        {
+          "active": true,
+          "pattern": "*.kaggle.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.kaggleusercontent.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.keil.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.kernel.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.khanacademy.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.khronos.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.kinsta.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.kite.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.kubernetes.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.kubernetes.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.labix.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.laravel.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.launchpad.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.leafletjs.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.leech.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.lenovo.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.lens.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.lg.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.lgappstv.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.libraries.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.lightstep.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.linode.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.linuxquestions.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.lit.dev*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.litespeedtech.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.livefyre.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.logrocket.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.maas.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.machinelearningmastery.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.machinelearningmastery.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.macromedia.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.mailchimp.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.mailgun.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.mariadb.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.marketingplatform.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.material.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.mathworks.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.maven.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.maven.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.maxcdn.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.maxmind.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.mbed.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.medium.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.mendeley.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.metasploit.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.meet.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.mi.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.microblink.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.microchip.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.micropyramid.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.microsoft.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.microsoft.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.microsoft.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.microsoft.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.minio.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.mintegral.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.miro.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.mit.edu*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.mongodb.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.mongodb.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.mouser.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.moz.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.mozilla.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.mozilla.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.msecnd.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.mvnrepository.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.my-netdata.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.mybridge.co*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.myfonts.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.myget.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.mymavenrepo.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.mysql.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.nativescript.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.nestjs.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.netacad.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.netbeans.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.netdata.cloud*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.netdata.cloud*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.netdevgroup.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.newrelic.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.nextjs.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.nginx.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.ngrok.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.ngrok.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.ni.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.nip.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.nirsoft.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.nodejs.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.nodesource.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.notifications.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.notion.so*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.npmjs.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.nvcr.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.nvidia.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.oddrun.ir*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.ojrq.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.okta.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.one.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.onfastspring.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.openai.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.opendev.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.openembedded.or*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.openembedded.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.openreview.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.opensource.google*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.openvpn.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.optimize.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.optimizely.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.oracle.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.origin.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.overleaf.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.packagecloud.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.packagesource.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.packagist.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.packtpub.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.paddle.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.pancakeswap.finance*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.paperspace.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.parsely.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.payments.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.paypal.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.paypalobjects.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.pdf2go.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.photodune.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.php.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.pingdom.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.pkg.dev*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.pkg.jenkins.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.planet.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.play.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.plotly.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.polymer-project.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.postman.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.prezi.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.proandroiddev.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.programiz.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.pscdn.co*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.pub.dev*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.pub.dev*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.pypa.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.pypi.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.pypi.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.python.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.pythonhosted.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.pytorch.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.pytorchlightning.ai*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.qt.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.quay.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.quilljs.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.rabbitmq.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.rapid7.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.rapidapi.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.react-select.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.reactjs.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.reality.ai*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.realm.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.red.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.redis.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.redis.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.registry.k8s.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.registry.terraform.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.regxa.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.releases.hashicorp.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.remove.bg*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.research.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.rstudio.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.rtings.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.ruby-doc.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.rubygems.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.rust-lang.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.salesforce.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.samacsys.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.scdn.co*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.schema.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.segment.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.seleniumhq.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.sendgrid.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.sentry-cdn.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.sentry.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.serialport.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.serverfault.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.serverpilot.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.services.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.sitefinity.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.siteground.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.sites.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.slidesgo.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.socket.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.softlayer.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.softonic.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.sonatype.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.sourceforge.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.sparkjava.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.spiceworks.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.splunk.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.spotify.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.spring.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.squarespace.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.sstatic.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.st.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.stackexchange.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.stackoverflow.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.stackshare.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.statuspage.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.storage.googleapis.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.stripe.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.stripe.network*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.sun.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.superuser.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.surveys.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.swaggerhub.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.swift.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.symfony.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.tabnine.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.tagmanager.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.teamtreehouse.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.teamviewer.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.telerik.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.templatemag.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.tensorflow.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.terraform.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.terrytao.wordpress.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.themeforest.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.themepixels.me*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.thinkwithgoogle.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.ti.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.time.google.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.timedoctor.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.tinyjpg.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.tinypng.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.tinyurl.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.toggl.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.tomtom.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.towardsdatascience.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.travis-ci.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.travis-ci.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.traviscistatus.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.trello.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.trellocdn.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.twilio.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.typoci.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.ubuntu.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.udemy.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.udemycdn-a.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.udemycdn.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.unity.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.unity3d.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.unpkg.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.unrealengine.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.unsplash.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.upwork.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.uxcam.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.vagrantup.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.victoriametrics.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.videohive.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.videolan.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.virtualbox.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.virtualmin.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.visualping.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.visualstudio.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.visualstudio.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.visualstudio.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.vmcdn.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.vmware.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.vscode-cdn.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.vscode.dev*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.vuejs.org*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.vuetifyjs.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.vuforia.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.vultr.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.wakatime.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.wallpaperget.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.wandb.ai*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.waze.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.web.dev*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.webcatalog.app*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.webcatalog.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.webex.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.webmin.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.websiteforstudents.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.wikia.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.windows.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.withgoogle.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.withgoogle.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.withgoogle.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.wix.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.wpastra.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.wrappixel.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.wtfismyip.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.xbox.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.xboxab.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.xboxab.ne*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.xboxlive.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.xboxservices.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.xero.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.xiaomi.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.xip.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.xkcd.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.yajrabox.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.yandex.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.yarnpkg.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.zeit.co*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.zend.com*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.zeplin.io*",
+          "type": 1,
+          "protocols": 1
+        }
+        ,
+        {
+          "active": true,
+          "pattern": "*.zoom.us*",
+          "type": 1,
+          "protocols": 1
+        }
+      ]
     }
-  ],
-  "logging": {
-    "active": true,
-    "maxSize": 500
-  }
+  ]
 }

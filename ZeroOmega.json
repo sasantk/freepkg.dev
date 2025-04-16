@@ -1,0 +1,5192 @@
+{
+  "+auto switch": {
+    "color": "#99dd99",
+    "defaultProfileName": "direct",
+    "name": "auto switch",
+    "profileType": "SwitchProfile",
+    "rules": [
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.000webhost.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.3docean.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.8xr.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.aapanel.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.accounts.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.aclanthology.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.adobe.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.adobelogin.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.ads.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.adsense.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.adservice.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.ai.google"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.akamaized.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.alexa.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.algolia.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.algolia.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.algolianet.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.alpinelinux.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.altera.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.altn.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.amazon.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.amazon.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.amazonaws.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.amd.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.amp.dev"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.analytics.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.anchor.fm"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.android.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.androidstudio.googleblog.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.ansible.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.ant.design"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.anydesk.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.apache.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.api.daily.dev"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.apis.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.app.netdata.cloud"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.app.uniswap.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.appengine.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.apple.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.apps.admob.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.appspot.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.arcgis.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.atlassian.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.atlassian.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.audiojungle.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.auth0.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.aws.amazon.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.awsstatic.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.axocdn.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.azul.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.azure.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.b4x.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.baeldung.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.balena.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.battlecode.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.bazel.build"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.bazel.build"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.bestbuy.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.bigbluebutton.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.bintray.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.bit.dev"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.bit.ly"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.bitbucket.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.bitsrc.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.bitvise.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.bitvision.app"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.bluemix.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.books.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.bootstrapcdn.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.bootswatch.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.branch.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.brew.sh"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.buf.build"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.bugsnag.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.business.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.c9.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.caddy.community"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.caddyserver.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.centos.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.chaquo.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.chat.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.chat.openai.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.chatgpt.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.chatgptonline.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.chromium.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.chromewebstore.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.cirros-cloud.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.cisco.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.clamav.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.classroom.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.clients.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.clients2.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.clients6.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.cljdoc.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.cloud.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.cloudbees.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.cloudera.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.cloudflare.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.cloudfront.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.cloudfunctions.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.cnet.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.cocalc.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.code.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.code.videolan.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.codecanyon.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.codecov.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.codegrepper.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.codepen.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.codesandbox.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.codex.cs.yale.edu"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.coinbase.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.compiles.overleaf.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.comsol.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.conan.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.consul.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.convertio.co"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.convertio.me"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.coreldraw.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.count.ly"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.coursehero.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.coursera-apps.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.coursera.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.coursera.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.cp.maxcdn.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.cppstories.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.crashlytics.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.crates.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.cs50.ai"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.cs50.dev"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.cs50.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.cs50.me"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.csb.app"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.curd.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.dart.dev"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.dartlang.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.dartpad.dev"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.dashboardpack.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.datacamp.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.datastudio.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.debian.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.deepmind.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.dell.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.dellcdn.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.demandbase.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.deno.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.deno.land"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.deployer.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.design.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.dev.to"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.mattermost.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.ppa.launchpadcontent.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.developer.chrome.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.developer.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.developer.samsung.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.developers.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.digikey.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.digitalocean.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.djangoproject.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.dl-ssl.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.dl.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.dlang.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.dns.google"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.dns.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.docker.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.docker.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.docs.datastax.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.domains.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.dot.tk"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.doubleclick.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.static.doubleclick.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.doubleclickbygoogle.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.download.01.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.download.virtualbox.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.downloads.arduino.cc"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.earthengine.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.earthengine.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.edgesuite.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.edx.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.elastic.co"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.element14.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.eloqua.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.en25.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.enterprisedb.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.envato-static.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.envato.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.envato.market"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.epicgames.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.eslint.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.events.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.exceedlms.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.exp-tas.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.explainshell.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.expo.dev"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.expo.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.expressjs.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.fabric.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.fastapi.tiangolo.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.fbsbx.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.fedoramagazine.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.fedoraproject.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.fiber.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.figma.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.firebase.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.firebase.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.flaticon.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.flurry.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.flutter-io.cn"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.flutter.dev"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.flutter.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.fluttercrashcourse.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.flutterlearn.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.fodev.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.fontawesome.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.fortinet.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.forums.cpanel.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.freecodecamp.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.freedesktop.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.freenom.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.freepik.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.fsdn.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.fuchsia.dev"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.fusioncharts.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.gallery.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.ggpht.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.gamepass.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.gcr.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.geforce.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.gemini.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.getbootstrap.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.getcaddy.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.getliner.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.github.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.github.dev"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.github.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.githubapp.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.githubassets.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.githubusercontent.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.githubusercontent.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.gitkraken.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.gitlab-static.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.gitlab.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.gitlab.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.gitpod.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.ghcr.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.glitch.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.glitch.me"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.gluonhq.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.gnome.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.go.dev"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.goanimate.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.godbolt.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.godoc.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.golang.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.google-analytics.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.google.ai"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.google.qualtrics.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.googleadservices.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.googleapis.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.googlesource.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.googletagmanager.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.googletagservices.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.googleusercontent.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.gopkg.in"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.grabcad.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.gradle-dn.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.gradle.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.grafana.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.grammarly.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.graphicriver.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.graphql.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.gravatar.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.gravityforms.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.grow.google"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.gstatic.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.gurobi.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.gvt1.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.hackerrank.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.hackerrank.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.hackthebox.eu"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.helm.sh"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.heroku.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.hetzner.cloud"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.hetzner.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.hetzner.company"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.hetzner.de"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.hex.pm"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.highcharts.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.hotjar.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.hp.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.hpe.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.huawei.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.huggingface.co"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.hyper.is"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.i.stack.imgur.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.i18next.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.ibm.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.ieee.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.ieee.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.ifconfig.co"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.igdb.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.incredibuild.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.insomnia.rest"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.instana.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.intel.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.intelephense.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.intellij.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.invis.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.invisionapp.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.ipinfo.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.ipwhois.app"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.is.gd"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.issuetracker.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.itsfoss.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.jaspersoft.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.java.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.javacardos.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.jenkins-ci.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.jenkins.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.jenkov.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.jetbrains.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.jetbrains.space"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.jfrog.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.jfrog.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.jhipster.tech"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.jitpack.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.jitsi.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.jquery.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.js.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.jsdelivr.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.justpaste.it"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.jwplayer.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.k8s.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.kaggle.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.kaggle.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.kaggle.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.kaggleusercontent.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.keil.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.kernel.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.khanacademy.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.khronos.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.kinsta.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.kite.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.kubernetes.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.kubernetes.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.labix.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.laravel.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.launchpad.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.leafletjs.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.leech.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.lenovo.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.lens.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.lg.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.lgappstv.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.libraries.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.lightstep.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.linode.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.linuxquestions.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.lit.dev"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.litespeedtech.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.livefyre.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.logrocket.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.maas.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.machinelearningmastery.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.machinelearningmastery.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.macromedia.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.mailchimp.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.mailgun.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.mariadb.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.marketingplatform.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.material.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.mathworks.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.maven.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.maven.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.maxcdn.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.maxmind.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.mbed.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.medium.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.mendeley.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.metasploit.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.meet.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.mi.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.microblink.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.microchip.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.micropyramid.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.microsoft.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.microsoft.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.microsoft.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.microsoft.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.minio.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.mintegral.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.miro.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.mit.edu"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.mongodb.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.mongodb.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.mouser.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.moz.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.mozilla.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.mozilla.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.msecnd.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.mvnrepository.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.my-netdata.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.mybridge.co"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.myfonts.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.myget.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.mymavenrepo.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.mysql.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.nativescript.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.nestjs.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.netacad.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.netbeans.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.netdata.cloud"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.netdata.cloud"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.netdevgroup.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.newrelic.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.nextjs.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.nginx.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.ngrok.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.ngrok.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.ni.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.nip.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.nirsoft.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.nodejs.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.nodesource.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.notifications.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.notion.so"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.npmjs.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.nvcr.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.nvidia.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.oddrun.ir"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.ojrq.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.okta.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.one.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.onfastspring.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.openai.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.opendev.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.openembedded.or"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.openembedded.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.openreview.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.opensource.google"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.openvpn.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.optimize.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.optimizely.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.oracle.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.origin.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.overleaf.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.packagecloud.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.packagesource.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.packagist.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.packtpub.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.paddle.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.pancakeswap.finance"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.paperspace.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.parsely.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.payments.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.paypal.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.paypalobjects.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.pdf2go.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.photodune.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.php.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.pingdom.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.pkg.dev"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.pkg.jenkins.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.planet.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.play.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.plotly.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.polymer-project.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.postman.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.prezi.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.proandroiddev.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.programiz.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.pscdn.co"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.pub.dev"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.pub.dev"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.pypa.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.pypi.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.pypi.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.python.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.pythonhosted.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.pytorch.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.pytorchlightning.ai"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.qt.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.quay.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.quilljs.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.rabbitmq.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.rapid7.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.rapidapi.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.react-select.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.reactjs.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.reality.ai"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.realm.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.red.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.redis.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.redis.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.registry.k8s.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.registry.terraform.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.regxa.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.releases.hashicorp.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.remove.bg"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.research.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.rstudio.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.rtings.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.ruby-doc.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.rubygems.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.rust-lang.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.salesforce.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.samacsys.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.scdn.co"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.schema.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.segment.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.seleniumhq.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.sendgrid.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.sentry-cdn.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.sentry.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.serialport.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.serverfault.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.serverpilot.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.services.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.sitefinity.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.siteground.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.sites.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.slidesgo.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.socket.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.softlayer.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.softonic.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.sonatype.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.sourceforge.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.sparkjava.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.spiceworks.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.splunk.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.spotify.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.spring.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.squarespace.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.sstatic.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.st.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.stackexchange.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.stackoverflow.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.stackshare.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.statuspage.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.storage.googleapis.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.stripe.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.stripe.network"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.sun.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.superuser.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.surveys.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.swaggerhub.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.swift.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.symfony.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.tabnine.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.tagmanager.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.teamtreehouse.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.teamviewer.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.telerik.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.templatemag.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.tensorflow.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.terraform.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.terrytao.wordpress.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.themeforest.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.themepixels.me"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.thinkwithgoogle.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.ti.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.time.google.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.timedoctor.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.tinyjpg.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.tinypng.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.tinyurl.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.toggl.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.tomtom.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.towardsdatascience.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.travis-ci.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.travis-ci.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.traviscistatus.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.trello.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.trellocdn.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.twilio.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.typoci.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.ubuntu.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.udemy.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.udemycdn-a.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.udemycdn.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.unity.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.unity3d.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.unpkg.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.unrealengine.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.unsplash.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.upwork.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.uxcam.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.vagrantup.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.victoriametrics.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.videohive.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.videolan.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.virtualbox.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.virtualmin.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.visualping.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.visualstudio.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.visualstudio.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.visualstudio.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.virustotal.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.googlevideo.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.vmcdn.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.vmware.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.vscode-cdn.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.vscode.dev"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.vuejs.org"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.vuetifyjs.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.vuforia.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.vultr.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.wakatime.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.wallpaperget.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.wandb.ai"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.waze.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.web.dev"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.webcatalog.app"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.webcatalog.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.webex.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.webmin.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.websiteforstudents.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.wikia.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.windows.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.withgoogle.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.withgoogle.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.withgoogle.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.wix.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.wpastra.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.wrappixel.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.wtfismyip.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.xbox.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.xboxab.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.xboxab.net"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.xboxlive.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.xboxservices.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.xero.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.xiaomi.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.xip.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.xkcd.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.yajrabox.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.yandex.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.yarnpkg.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.youtube.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.ytimg.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.zeit.co"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.zend.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.zeplin.io"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
+          "pattern": "*.zoom.us"
+        },
+        "profileName": "proxy"
+      }
+    ],
+    "revision": "1963defc701"
+  },
+  "+proxy": {
+    "bypassList": [
+      {
+        "conditionType": "BypassCondition",
+        "pattern": "127.0.0.1"
+      },
+      {
+        "conditionType": "BypassCondition",
+        "pattern": "::1"
+      },
+      {
+        "conditionType": "BypassCondition",
+        "pattern": "localhost"
+      }
+    ],
+    "color": "#99ccee",
+    "fallbackProxy": {
+      "host": "freepkg.dev",
+      "port": 8118,
+      "scheme": "http"
+    },
+    "name": "proxy",
+    "profileType": "FixedProfile",
+    "revision": "1963def5ea8"
+  },
+  "-addConditionsToBottom": false,
+  "-confirmDeletion": true,
+  "-downloadInterval": 1440,
+  "-enableQuickSwitch": false,
+  "-quickSwitchProfiles": [],
+  "-refreshOnProfileChange": true,
+  "-revertProxyChanges": true,
+  "-showExternalProfile": true,
+  "-showInspectMenu": true,
+  "-showResultProfileOnActionBadgeText": false,
+  "-startupProfileName": "",
+  "schemaVersion": 2,
+  "-monitorWebRequests": true
+}

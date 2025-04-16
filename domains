@@ -83,6 +83,7 @@
 .chatgpt.com
 .chatgptonline.net
 .chromium.org
+chromewebstore.google.com
 .cirros-cloud.net
 .cisco.com
 .clamav.net
@@ -166,6 +167,7 @@ ppa.launchpadcontent.net
 .domains.google.com
 .dot.tk
 .doubleclick.net
+.static.doubleclick.net
 .doubleclickbygoogle.com
 .download.01.org
 .download.virtualbox.org
@@ -219,6 +221,7 @@ ppa.launchpadcontent.net
 .fuchsia.dev
 .fusioncharts.com
 .gallery.io
+.ggpht.com
 .gamepass.com
 .gcr.io
 .geforce.com
@@ -591,6 +594,8 @@ meet.google.com
 .visualstudio.com
 .visualstudio.com
 .visualstudio.com
+.virustotal.com
+.googlevideo.com
 .vmcdn.com
 .vmware.com
 .vscode-cdn.net
@@ -630,6 +635,8 @@ meet.google.com
 .yajrabox.com
 .yandex.com
 .yarnpkg.com
+.youtube.com
+.ytimg.com
 .zeit.co
 .zend.com
 .zeplin.io
