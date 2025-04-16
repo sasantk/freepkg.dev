@@ -3264,6 +3264,14 @@
       {
         "condition": {
           "conditionType": "HostWildcardCondition",
+          "pattern": "*.namecheap.com"
+        },
+        "profileName": "proxy"
+      }
+,
+      {
+        "condition": {
+          "conditionType": "HostWildcardCondition",
           "pattern": "*.nestjs.com"
         },
         "profileName": "proxy"
